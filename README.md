@@ -12,13 +12,13 @@
 
 ## Usage 
 - You're given a page with the default layout of the text editor where you have access to whatever you want to put!
-![Program Default](/Assets/images/)
+![Program Default](/Assets/Images/Main-View.png)
 - App Manifest
-![App Manifest](/Assets/images/)
+![App Manifest](/Assets/Images/App-Manifest.png)
 - Service Worker
-![Service Worker](/Assets/images/)
+![Service Worker](/Assets/Images/Service-Worker.png)
 - IndexedDb storage
-![IndexedDb Storage](/Assets/images/)
+![IndexedDb Storage](/Assets/Images/Storage.png)
 
 ## License 
 - License under MIT License. For more information: [license](https://opensource.org/license/MIT)
